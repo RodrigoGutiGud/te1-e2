@@ -30,12 +30,14 @@
 Para escribir tipografía es muy parecido a la estrategia usada en WhatsApp
 Esto esta en **negritas** y esta _palabra_ esta en cursiva
 
-´´´
+
+```python
 def sumar(a,b){
 
 }
 
-´´´
+```
+
 
 # Elysia
 
